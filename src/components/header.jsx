@@ -116,7 +116,7 @@ const Header = () => {
               row: "sm:row-span-2 sm:col-start-5 sm:row-start-3",
             },
             {
-              src: "/image7.webp",
+              src: "/image8.webp",
               title: "Impact",
               desc: "Creating meaningful change",
               color: "bg-orange-500",
@@ -132,7 +132,7 @@ const Header = () => {
               row: "sm:row-span-2 sm:col-start-7 sm:row-start-5",
             },
             {
-              src: "/image8.webp",
+              src: "/image7.webp",
               title: "Collaboration",
               desc: "Working together for success",
               color: "bg-indigo-500",
