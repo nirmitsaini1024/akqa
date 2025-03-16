@@ -13,7 +13,7 @@ export default function FooterSection() {
   return (
     <footer className="py-10 md:py-32 bg-[#222222] text-white">
       <div className="mx-auto max-w-5xl px-6 text-center">
-        <div className="my-8 flex flex-wrap justify-center gap-6 text-sm">
+        <div className="my-4 flex flex-wrap justify-center gap-6 text-sm">
           {links.map((link, index) => (
             <a
               key={index}

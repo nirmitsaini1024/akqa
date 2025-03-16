@@ -1,10 +1,14 @@
 import FooterSection from "./components/footer";
-import Header from "./components/header";
+import Hero from "./components/header";
+import GridSection from "./components/mid";
+import Navbar from "./components/navbar";
 
 export default function App() {
   return (
     <>
-      <Header />
+      <Navbar />
+      <Hero />
+      <GridSection />
       <FooterSection />
     </>
   );
