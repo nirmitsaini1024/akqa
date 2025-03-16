@@ -26,7 +26,6 @@ const GridSection = () => {
           scrollTrigger: {
             trigger: `.row-${row}`,
             start: "top 85%",
-            markers: true,
             toggleActions: "play none none reverse",
           },
         }
