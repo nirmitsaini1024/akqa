@@ -48,7 +48,7 @@ const Navbar = () => {
             {["Work", "Expertise", "Careers", "Studios"].map((item) => (
               <li key={item}>
                 <a
-                  href={`/${item.toLowerCase()}/`}
+                  href={`/`}
                   className="text-gray-500 hover:text-black transition-colors duration-700"
                 >
                   {item}
